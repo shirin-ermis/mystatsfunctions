@@ -1,4 +1,4 @@
-# some stats functions i wrote
+# some stats functions Nick (@njleachh) wrote
 
 Very basic repo containing some statistical functions written to compensate where I found scipy lacking.
 
